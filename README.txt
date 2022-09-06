@@ -1,0 +1,1 @@
+A simple app to help select characters for Super Smash Brothers Ultimate.
